@@ -13,7 +13,7 @@
 - ⚡ I love turning ideas into elegant, maintainable solutions  
 - 🤝 Open to collaboration on MERN, Next.js & Shopify projects  
 - 📚 Always learning something new — backend patterns, automation, UI refinement
-- 🚚 Currently building **Zap-Shift**, a fullstack courier service app using my go-to frontend and backend tech stack  
+- 🚚 Currently building **Zap-Shift**, a fullstack courier service app using frontend and backend tech stack  
 - 🎯 **Goal:** Create experiences that feel seamless for users and effortless for developers  
 
 <!-- Banner / Header -->
