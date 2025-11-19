@@ -2,6 +2,19 @@
   <img src="https://github.com/tanvir81/tanvir81/blob/main/newbanner-1.png" />
 </p>
 
+
+## Hi, I'm Tanvir Hussain Khan 👋  
+**Fullstack Developer • Shopify Expert**
+
+- 🇧🇩 Based in Bangladesh  
+- 💻 I build modern, scalable web applications  
+- 🛍️ Shopify Expert — skilled in Liquid, theme customization & automation  
+- 🌐 Strong focus on clean UI/UX + robust backend architecture  
+- ⚡ I love turning ideas into elegant, maintainable solutions  
+- 🤝 Open to collaboration on MERN, Next.js & Shopify projects  
+- 📚 Always learning something new — backend patterns, automation, UI refinement  
+- 🎯 **Goal:** Create experiences that feel seamless for users and effortless for developers  
+
 <!-- Banner / Header -->
 <p align="center">
   <a href="https://git.io/typing-svg">
