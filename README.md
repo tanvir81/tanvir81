@@ -40,7 +40,7 @@
 - 🎯 **Goal:** Create experiences that feel seamless for users and effortless for developers  
 
 
-## 🌐 Socials:
+## 🌐 My Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/tanvirkhan1) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/tanvir.opu.633310/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tanvir-khan-868211126/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tkdarkshadow0@gmail.com) 
 
 ## 💻 Tech Stack
