@@ -16,7 +16,7 @@
 ## Hi, I'm Tanvir Hussain Khan 👋  
 **Fullstack Developer • Shopify Expert**
 
-- 🇧🇩 Based in Bangladesh  
+- Based in Bangladesh  
 - 💻 I build modern, scalable web applications  
 - 🛍️ Shopify Expert — skilled in Liquid, theme customization & automation  
 - 🌐 Strong focus on clean UI/UX + robust backend architecture  
