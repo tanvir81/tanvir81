@@ -66,5 +66,4 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanvir81&theme=react-dark&hide_border=true" />
 </p>
 
-### GitHub Contributions:
-![Snake Grid](https://github.com/tanvir81/contribution-snake/blob/output/grid.svg)
+
