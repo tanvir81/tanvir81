@@ -13,7 +13,17 @@
 
 ---
 ## 💫 About Me:
-<br><br>Hello! I'm **Tanvir Hussain Khan** — a curious mind and passionate **Fullstack Developer** from Bangladesh.  <br>I specialise in crafting **modern web experiences** that balance premium design with reliable backend logic, and I’m also a **Shopify Expert** with deep knowledge of Liquid templating.  <br><br>I enjoy turning ideas into clean, scalable code and love learning through collaboration and iteration.  <br>When I’m not coding, I’m exploring new automation tricks, refining UI/UX details, or diving into open source projects that challenge me to grow.  <br><br>✨ My goal is simple: build solutions that feel effortless for users and maintainable for developers.
+## Hi, I'm Tanvir Hussain Khan 👋  
+**Fullstack Developer • Shopify Expert**
+
+- 🇧🇩 Based in Bangladesh  
+- 💻 I build modern, scalable web applications  
+- 🛍️ Shopify Expert — skilled in Liquid, theme customization & automation  
+- 🌐 Strong focus on clean UI/UX + robust backend architecture  
+- ⚡ I love turning ideas into elegant, maintainable solutions  
+- 🤝 Open to collaboration on MERN, Next.js & Shopify projects  
+- 📚 Always learning something new — backend patterns, automation, UI refinement  
+- 🎯 **Goal:** Create experiences that feel seamless for users and effortless for developers  
 
 
 ## 🌐 Socials:
