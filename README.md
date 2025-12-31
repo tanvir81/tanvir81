@@ -59,6 +59,9 @@
 <!-- React.js -->
 <img src="https://skillicons.dev/icons?i=react" width="45" title="React.js" />
 
+<!-- Next.js -->
+<img src="https://skillicons.dev/icons?i=nextjs" width="45" title="Next.js" />
+
 <!-- Tailwind -->
 <img src="https://skillicons.dev/icons?i=tailwind" width="45" title="Tailwind" />
 
