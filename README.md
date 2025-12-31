@@ -3,25 +3,15 @@
 </p>
 
 
-## Hi, I'm Tanvir Hussain Khan 👋  
-**Fullstack Developer • Shopify Expert**
-
-- Based in Bangladesh  
-- 💻 I build modern, scalable web applications  
-- 🛍️ Shopify Expert — skilled in Liquid, theme customization & automation  
-- 🌐 Strong focus on clean UI/UX + robust backend architecture  
-- ⚡ I love turning ideas into elegant, maintainable solutions  
-- 🤝 Open to collaboration on MERN, Next.js & Shopify projects  
-- 📚 Always learning something new — backend patterns, automation, UI refinement
-- 🚚 Currently building **Zap-Shift**, a fullstack courier service app using frontend and backend tech stack  
-- 🎯 **Goal:** Create experiences that feel seamless for users and effortless for developers  
-
 <!-- Banner / Header -->
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=1000&color=18F7ED&width=435&lines=Hi%2C+I%E2%80%99m+Tanvir+Hussain+Khan;Fullstack+Developer+%26+Shopify+Expert" alt="Typing SVG" />
   </a>
 </p>
+
+
+
 
 
 
